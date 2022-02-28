@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of some of the unjust sufferings of Richard Simpson, by a false brother and his accomplices. Whose letter or libel let the reader observe as followeth. / Printed for the pure innocent truths sake ... : Given forth by one who is a daily mourner in Sion ... And he which hath received this, his name is written with R.S.</title>
+            <author>Simpson, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93271</idno>
+            <idno type="STC">Wing S3819</idno>
+            <idno type="STC">ESTC R184178</idno>
+            <idno type="EEBO-CITATION">45789402</idno>
+            <idno type="OCLC">ocm 45789402</idno>
+            <idno type="VID">172713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172713)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of some of the unjust sufferings of Richard Simpson, by a false brother and his accomplices. Whose letter or libel let the reader observe as followeth. / Printed for the pure innocent truths sake ... : Given forth by one who is a daily mourner in Sion ... And he which hath received this, his name is written with R.S.</title>
+                  <author>Simpson, Richard.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Simpson, Richard.</term>
+               <term>Libel and slander --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172713:1" rendition="simple:additions"/>
+            <p>A Brief RELATION of ſome of the unjuſt Sufferings of <hi>RICHARD SIMPSON,</hi> by a Falſe Brother and his Accomplices.</p>
+            <p>Whoſe Letter or Libel let the Reader obſerve as followeth.</p>
+            <p>Printed for the pure innocent Truths ſake, which with the pure holy Seed ſuffereth, be<g ref="char:EOLhyphen"/>ing burthened and oppreſſed by the wicked, and much reviled and reproached by lying tongues, and ſlanderous mouths.</p>
+            <p>Given forth by one who is a daily mour<g ref="char:EOLhyphen"/>ner in SION, and who hath given him to eat Manna which is hid, wherein is a white ſtone, and a new name written which no man can read, nei<g ref="char:EOLhyphen"/>ther any man know, ſaving he that gives it and he that receives it; And he which hath received this, his name is written with R. S.</p>
+            <p>Printed in the year, 1661</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172713:2"/>
+            <pb n="3" facs="tcp:172713:2"/>
+            <opener>
+               <salute>R. S.</salute>
+            </opener>
+            <p>OF letters from the which ar Raileings I have hard of many: ſo that in the hee halfe of my Frend<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and naibores her to the is an anſwer thou foel why doſt thou Judg others and art ſene with great okes in thin onn eyes and weell mayeſt thou complain of dimnes of ſight and of being ſo burdened whenn foner great okes thou haſt puled donn upon thy ſelf at ones bee ſides other horabele Crines Remember the fatherles Chil<g ref="char:EOLhyphen"/>dren that thou hadeſt goott into thy lionns pans but thy hould one them was of no morvallon to the then tow ſtrans ſeaſ wrigting with thy pekockes quiles for thou art ſenn writing in thm onne will o that thou wouldeſt look donn upon thy leges and be as much a ſhamed as the peCook is when hee ſee his a Word to the wiſe is a nofe the rod is for thy fonles back thy ſtripes thou caneſt not hid All though thou ſtareſt never ſo wide thou profeſe thy ſelef to have mor knowleg then other mean and yeet thou dged apitt and fell ento it thy ſelfe and when thou artt holppen outt thou artt ſtille proud and ſtoutt and Cales thy frendes thy focs bee for thou Railſt a nie more take thy ſelfe by the nos thou artt nott ſoe wiſe as the Cravin Cooke for bee fore hee Chantes his nottes to others hee beeatts well uppon him<g ref="char:EOLhyphen"/>ſelf O whatt Counſele ſhall thou have geven thee thoue dron that by deſaitt wouldeſt gaine the honie frome the bee o fle fle en to ſum kane whear thou maiſt not hear all mean Call the vaagbone or k k. at this letter it may bee thou maiſt laff and vaper if thou doſte lett it not make the kapper I have writt this to the ought of good will ſo that thou maiſt not no mor com at the Caſtel hill I would have the know thou ar a treſper to me everi daye and take your
+<pb n="4" facs="tcp:172713:3"/>turkies a way and learn to Fell okes in the month called may and n more lous the bodies and the barke</p>
+            <closer>
+               <dateline>
+                  <date>The 8 M. the 20 day.</date>
+               </dateline>
+               <signed>I. B.</signed>
+            </closer>
+         </div>
+         <div type="prescription">
+            <p>To the Mouth of <hi>Richard Simpſon</hi> let thes be givene for to bee ſwallowed donne if it may may doe him good it ſhall make me glad if not I thinke if hee mend not it will bee a great whille ear hee bee for goott <hi>R.</hi> S. k k.</p>
+         </div>
+         <div type="document">
+            <p>I do appoint my Tenant <hi>Richard Simpſon</hi> to come to the Court and pay the rent for the half year, I being not in health to come my ſelf, I deſire that I may be re<g ref="char:EOLhyphen"/>membred, according to that promiſe that was made me when I paid ſo great a Fine, that it ſhould be con<g ref="char:EOLhyphen"/>ſidered me in the ſelling of the Timber, and that this my Tenant <hi>Richard Simpſon</hi> may have the loweſt price, my ſelf conſidered therein for what I ſhall be allow<g ref="char:EOLhyphen"/>ed, and I appoint him in my ſtead, and what agree<g ref="char:EOLhyphen"/>ment you make with him I ſhall allow of it.</p>
+            <closer>
+               <dateline>
+                  <date>The 12 day of the month called <hi>October,</hi> 1659. Waybrid.</date>
+               </dateline>
+               <signed>Iohn Barber.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>IN conſideration of 4. pounds to me paid by <hi>Rich<g ref="char:EOLhyphen"/>ard Simpſon,</hi> and of 2. pounds which he promiſes to pay to my Copy hold Tenant <hi>John Barber,</hi> I do at the requeſt of the ſaid <hi>Iohn Barber</hi> Licenſe the ſaid <hi>Richard Simpſon</hi> to cut down three oaks and one ſmall ſhrub oak now growing upon the Copy hold Land of the manner of <hi>Shelton,</hi> and do give him one whole years time for the converting of them.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 14. 1659.</date>
+               </dateline>
+               <signed>Wm. Blois.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>This is the Licenſe both of him called the Lord of the Mannner, and the owner of the Land, whoſe
+<pb n="5" facs="tcp:172713:3"/>words were maſters of both the acts of their hands; but my word is not yet my maſter, and though it be thine <hi>I. B.</hi> nor I hope never ſhall ſo long as I abide faithful to the Lord in my meaſure; but that I ſhall be alwayes maſter of my word whether it be yea or nay,</p>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>VVOe, woe, woe be unto thee <hi>W. B.</hi> for acting ſo much cruelty againſt me which never did any evil unto thee, for it was thy abominable letter and thy curſed Baily that abominable branch which bare the greateſt falſe Teſtimony againſt me, and which hath made me to ſuffer ſo much both in body, goods &amp; good name; For I was impriſoned both in the Country Goal, and Caſtle of <hi>Norwich,</hi> in that I was arreſted again at <hi>Barbers</hi> ſuit, but had not freedom to anſwer it, and ſo was impriſoned above four weeks, where I ſuffered more then a little, and had a beaſt ſtroyed prized at 7 <hi>l.</hi> which was upon that occaſion, and a Cow taken away from me which was prized at 4 <hi>l.</hi> 10 s. beſides money out of my purſe, which was to ſatisfie one of thy brethren in evil <hi>I. B.</hi> and ſo I being departed from iniquity, and refrain my ſelf from e<g ref="char:EOLhyphen"/>vil is become a prey to the wicked, ſo that upon the account of the 4 Trees which I bought of thee at the firſt for 6 <hi>l.</hi> hath now coſt me about 22 <hi>l.</hi> and I had ſuf<g ref="char:EOLhyphen"/>fered much more if ſome Friends in the City had not been more then ordinary kind to me; but the Truth of God is like to ſuffer much more then I or me, in that the gap is made wider and bigger then it was be<g ref="char:EOLhyphen"/>fore; for the wilde Boars and the wilde beaſts of the wilde foreſt, which is this wilde &amp; rude World, to come in and wrett &amp; root up, and root out too (if it were poſſible) the Lords new Plantation, for the wch
+<pb n="6" facs="tcp:172713:4"/>thing the curſe of God hangs over thy head, and over the head of <hi>J.B.</hi> who hath acted his cruelty over me e<g ref="char:EOLhyphen"/>ver ſince he began with me, under, or with a pretence to have authority from thee, &amp; the curſe of God hangs over the head of his curſed Lawyer, which was the curſed ring-leader of this great miſchief, and Souls miſery, and upon bodies too, and the curſe of God hangs over the heads of all his falſe witneſſes, which bear falſe witneſs, and gave falſe Teſtimony againſt me, of whom there was not a few; And the curſe of God ſhall reſt upon thee and all that thou haſt, and upon <hi>I. B.</hi> and all that he hath, until you repent and confeſs your ſins to God, and make reſtitution to me <hi>R. S.</hi> whom you hath moſt wickedly wronged; For <hi>curſed is be that ſmiteth his neighbour ſecretly, and let all the people ſay, Amen; And curſed is he that hindreth the right of the ſtranger, and let all the people ſay, Amen; And curſed is he that taketh away the right of the innocent, and let all the people ſay, Amen;</hi> And vengeance of flames of fire is prepared for you, where both your torments ſhall be, if you do not ſpeedily repent, and make your peace with God, and come and ſatisfie me who am innocent in the ſight of God, even in this thing wherein or whereof both you two and many more hath ſo much ſlandered and accuſed me, my own conſcience not condemning me, and <hi>Bleſſed is he that is not condemned of or in his own conſcience, nor fallen from his hope in the Lord;</hi> Then curſed is he that is condem<g ref="char:EOLhyphen"/>ned in his own conſcience, and whoſe hope is not in the Lord, and this is your condition <hi>W. B.</hi> and <hi>I. B;</hi> And much more I cold ſay, but the time is ſhort, and I have now no Beaſt to ride upon to come unto thee; And wo be unto them which gave away the right of the innocent, through the falſe Teſtimony of them
+<pb n="7" facs="tcp:172713:4"/>that bear falſe witneſs againſt me, unjuſtly and falſe<g ref="char:EOLhyphen"/>ly accuſing of me, contrary to the light of God in their own conſciences; And now I ſay that God hath warned you both again by me, as you have been often warned before both of God and me, and repent and prize the time whileſt you have it, for the time is but ſhort before time ſhall be no more; And now I am clear of both your bloods, but I ſpare thee a little; And every letter which I have ſent to thee ſhal be as ſo many Characters engraven in thy conſcience with a red ſear hot iron pen, which ſhall much encreaſe thy torments in hell, if thou doeſt not now repent. And now I wiſh thee a good farewel who art out of the farewell; For there is no well-fare nor well be<g ref="char:EOLhyphen"/>ing neither, out of Chriſt Jeſus, who is both the Foun<g ref="char:EOLhyphen"/>tain and Wel-ſpring of every good thing, and of life, light and of glory, and the fear of the Lord is the glo<g ref="char:EOLhyphen"/>ry aſwel of the rich and the noble as of the poor <hi>E<g ref="char:EOLhyphen"/>cleſ.</hi> 10.23, and pride was not created in men nei<g ref="char:EOLhyphen"/>ther wrath in the generation of women, <hi>ver.</hi> 19. And the fear of the Lord is an holy knowledge, <hi>chap.</hi> 1. <hi>ver.</hi> 16. And now <hi>I</hi> could be a friend to thy ſoul, if thou wouldeſt live a heavenly life with me.</p>
+            <closer>
+               <signed>Richard Simpſon.</signed> 
+               <dateline>From <hi>Freſhingfield</hi> in <hi>Suffolk</hi> 
+                  <date>the 22. day of the 7. Months, 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:172713:5"/>
+            <p>This is the Coppy of a Letter ſent to him called the Lord of the Mannor, but the manner of the Lords actings are no way like the actings of theſe Lords of Mannors; Some of them threatning to ſeaze mens lands, becauſe they cannot ſwear at their Courts to maintain their <hi>Diana,</hi> I being one of the men: Others taking away mens Timber off their Ground, and grudges to allow the owner thereof either the old rot<g ref="char:EOLhyphen"/>ten poullings or the tops of their own Timber Okes, I being one concerned in this thing; But this was the worſt Act of all of him who took my money for four oakes, and then afterwards ſent his letter to the owner of the Land to en<g ref="char:EOLhyphen"/>courage him to carry them away off the Ground, after much of them were converted, and that much within the Cumpaſs of the time which I had under both their hands for the con<g ref="char:EOLhyphen"/>verting of them; And now if this be fair-play, then let both Rooks and Cheats play the ſame game. But in the mean time, let all ſuch as have thus diſhonoured God, and abuſed both themſelves and me henceforth cover their faces with ſhame, as ſaith, <hi>R. S.</hi>
+            </p>
+            <p>And as ſome Lords of Mannors have made havock and ſpoyle of our Lands, even ſo have many of <hi>Baals</hi> blind guids made havock and ſpoyle of our goods and bodies, under a pretence of recovering their petty Tythes, which are now no better then bribes, though <hi>Baal</hi> by them pleads for <hi>Baal,</hi> ſo that <hi>Baal</hi> is daily pleading for himſelf: Therefore let the looſer have leave to plead for himſelf who is now at <hi>London,</hi> being buffited up thither by Satan, and by a Subpena is to appear there at <hi>Weſtminſter</hi> the twenty fifth day of the ninth month called November, about <hi>Baals</hi> bribes, one of <hi>Baal</hi> and <hi>Molechs</hi> Chamarims who wears black, having both his hands ſtretched forth to receive bribes, and his mouth opened for me to put therein; but the mark which I am now preſſing ſo hard too, is not the mark in the mouth.</p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="9" facs="tcp:172713:5"/>
+                  <opener>
+                     <salute>John Barber,</salute>
+                  </opener>
+                  <p>THine own wicked heart will not let thee Conſeal thine own wickedneſs, but thine own hand muſt make it manifeſt, as by thine own Confeſſi<g ref="char:EOLhyphen"/>on, I have loſt both the bodies and the barks of the four Oakes, which I bought honeſtly both of <hi>W. B</hi> and thee, and paid for them too, four or five months before I feld them; So that the loſs of the bodies without the bark, will be heavy enough to weigh thee down to the depth of the Pit of Hell, if thou doeſt not repent, and cauſe hell to vomit them up again to me, and thou and he of whom I bought them, will both make an equall ballance, yet it is like thy ſcoale will go down; Firſt, becauſe thou cauſed him, through thy lying tongue, to commit this horrible ſin, and could neither thy Maſter nor thy Lawyer help thee to indite thy letter no wiſelier, nor no truer, nor with no better ſence then ryme and riddle? but take heed how thou and thy Law<g ref="char:EOLhyphen"/>yer goes to him again for Counſel, who is thy Father, as curſed <hi>Cain</hi> did thy elder brother, for ſure I am that he was the firſt man of ſtrife; I ſay again take heed how thou and thy Lawyer goes any more to him for Counſel, who is both your Father and Grandfather, I mean he that is the father of lyes, leaſt he that is now both your Father, Maſter and Counſeller, ere long become your greateſt tormenter; And though thou calleſt me foell in ſtead of fool, and ſo threa<g ref="char:EOLhyphen"/>tens hell fire unto thy ſelf; and thou ſayeſt that a woord to the wiſe is a nofe, in ſtead of a enough; So that I ſay a word to the wiſe from the wiſe is enough, and ought to be recei<g ref="char:EOLhyphen"/>ved, but the word or words of a fool from a fool, ought not to be regarded; And thou ſayeſt that the rod is for the fond<g ref="char:EOLhyphen"/>leſs back, in ſtead of, for the fools back, then the rod is pre<g ref="char:EOLhyphen"/>pared for the back of thee, who art not only fondleſs or a fool, but a clown alſo, (according to the worlds language; And there ſhall need no other Teſtimony then thy head and
+<pb n="10" facs="tcp:172713:6"/>own hand writing; and thou puts k. k. for knave, knave up<g ref="char:EOLhyphen"/>on me, as it was interpreted by thine own meſſenger; But not to anſwer a fool in his folly, leaſt I ſhould be like unto him, in calling him either knave or fool, as he did me; Yet I will anſwer a fool according to his fooliſhneſs, and a knave according to his deceit and wickedneſs, leaſt he be wiſe in his own conceit, and boaſt himſelf in his knavery, as <hi>J. B.</hi> hath done already; But to be ſhort, the much muck which thou haſt got of late, as it hath made thy ſoyle fat, ſo it hath made thy Soul lean; and thy wallowing ſo much in the mire and durt, hath ſo much polluted both thy body and thy Soul, that all the water in the Sea will not waſh thee clean; And that libel or pamphet which thou ſent me of thine own hand writing, the which thou directs to my mouth, and no marvel becauſe thou hadeſt it from the Devils mouth, for if thou hadeſt had any thing from the mouth of God, then thou wouldeſt have directed it to the hands of me as a letter of love; but he that guided both thy heart and hand, ſo blinded both thy eyes without and the eye within, that thou couldeſt not ſee to write but little either of truth or true Engliſh. And as for the fatherleſs Children which thou up<g ref="char:EOLhyphen"/>braideſt me with, if it had not been for ſuch unclean ſpirits as that which poſſeſſeth thee, that raiſed an evil report of me, I had by this time been as a Father unto them. And Much more I might write to anſwer thy fooliſh Libel or Pamphlet, but it is ſuch ſtinking naſty ſtuff that it is not worth the looking on, then much leſs the anſwering, but thou haſt writ enough to render thy ſelf odious to all ſober and Godly men, who are but able to diſcern a hypocrite from an honeſt man; but in that thou haſt laid open thy deceit and wicked heart thy ſelf both to me and Friends, and to ſome of the wiſe men of the world beſides, I ſhall not need to anſwer a deceiver any more; yet I am a friend to thy ſoul, but a bit<g ref="char:EOLhyphen"/>ter enemy to thy deceit, and to him that Rules and Reigns in thee, I mean the Father of Perdition, thou being one of his Sons or Baſtards, which hath not yet received chaſtize<g ref="char:EOLhyphen"/>ments of my Father, to make thee become a child; And as one ſcabbed ſheep is enough to infect a flock, if it be not turned out in time, even ſo muſt <hi>I.B.</hi> be turned out of the flock</p>
+                  <gap reason="missing" extent="4 pages">
+                     <desc>〈4 pages missing〉</desc>
+                  </gap>
+                  <p>
+                     <pb n="15" facs="tcp:172713:6"/>
+And now let all wiſe and ſober people take notice of this one fooliſh paſſage among many more in his Libel, <q>For</q> ſaith he, <q>I would have thee know thou art a treſpar to me every day, and take your Turkies away, and learn to fell Oakes in the month called <hi>May,</hi> and no more lons, meaning loſe the bodies and the bark. The 8 m<hi rend="sup">th</hi> 20 day, <hi>J.B.</hi>
+                     </q> The which Turkies were but 7, for the which I was much threatned to be ſued at the Law, until my wife put one of them into his own hands, both to ſtop his mouth and fill his belly, for he ſaid they eat up his graſs, and yet I made it appear that I loſt near 20 <hi>s.</hi> by his graſs, beſides the loſs of my Timber; but moſt of the graſs that the Turkies left, he covered thick with muck; and now I ſhall leave him even as I have found him, a bitter envious ſpiteful enemy, and a fearful, and abo<g ref="char:EOLhyphen"/>minable lyar and an hypocrite, out of the hands of whom I pray to be delivered,</p>
+                  <closer>
+                     <signed>R. S.</signed> 
+                     <dateline>Freſſingfield <date>the 11 day, and the 9 month, called <hi>November,</hi> 1660.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>ANd now <hi>J. B.</hi> I ſhall leave a ſhort leſſon with thee, which both Chriſt Jeſus and other wiſe, and godly men have left for thee, And firſt hear the words of <hi>Solomon,</hi> who ſaith, he that hideth his ſins ſhall not proſper, then how doſt thou think to proſper, which hath not only hidden thy ſins, but hath alſo Fathered them upon me, who is innocent in the ſight of God, even in this thing whereof thou haſt ac<g ref="char:EOLhyphen"/>cuſed me, and ſo much ſlandered and reproached me; And hear the words of Chriſt himſelf, who is the true <hi>Solomon,</hi> which ſaith, if thy Brother ſin againſt thee ſeven times in a day, and ſeven times in a day turn again and ſay it repent<g ref="char:EOLhyphen"/>eth me, thou ſhalt forgive him; And hear the words of the Apoſtle <hi>James</hi> alſo, who ſaith, confeſs your faults one to an<g ref="char:EOLhyphen"/>other, and pray one for another; but unleſſe thou confeſſe thy faults to me, I can neither freely forgive thee, nor yet pray h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artily for thee; And bleſſed is he that is not condem<g ref="char:EOLhyphen"/>ned in his own conſcience, nor fallen from his hope in the Lord, and I am he; Then curſed is he that is condemned in his own conſcience, and whoſe hope is not in the Lord, and
+<pb n="10" facs="tcp:172713:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:172713:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:172713:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:172713:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:172713:9"/>thou art he <hi>J. B.</hi> except thou repent; and what I ſay unto thee, <hi>I</hi> ſay unto all thoſe falſe witneſſes which thou produ<g ref="char:EOLhyphen"/>ced againſt me, except they repent.</p>
+            <p>
+               <hi>Omne bene quod finet bene,</hi> All is well that doth end well, But he that never begins well, can never end well, as ſaith,</p>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <p>TO the ears of <hi>John Barber</hi> who is of a Barbarous nature, but not to his hands, leaſt he burn it, as it is like he din a writing of mine, by which he bound me, and witneſs to it, to take the Trees at the ſame price as I bought them at, and not to turn them into his hands, the wch writing he confeſſed, but not produced, the more ſhame for the wards-men which made the Cauſe paſs on his ſide, which al<g ref="char:EOLhyphen"/>tered if not forged one writing, and fordid another; but what his ſweet wine in their mouth, and his ſweet words which he ſtingled in their ears, which my ſel did ſee in private; he like a cunning Colt, and not like a craven Cooke, inſtead of a craven Cook, as he writ to me in his libel, ſo chanted (that he made them quite forget) both truth and true judgment, and juſtice too that day, ſo that truth was let fall, and equity could not enter through the malice of the Tempter.</p>
+            <closer>
+               <signed>D.I.D.V.D.E.D.L.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
